@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/food"
+        android:title="Food"
+        android:iconTint="@color/stratos_blue"
+        android:icon="@drawable/baseline_fastfood_24"></item>
+    <item
+        android:id="@+id/grocery"
+        android:title="Grocery"
+        android:iconTint="@color/stratos_blue"
+        android:icon="@drawable/baseline_local_grocery_store_24"></item>
+    <item
+        android:id="@+id/toys"
+        android:iconTint="@color/stratos_blue"
+        android:title="Toys"
+        android:icon="@drawable/baseline_toys_24"></item>
+</menu>
